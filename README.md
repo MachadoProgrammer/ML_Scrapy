@@ -1,4 +1,5 @@
-# ML_Scrapy
-Extração de Dados Completa
+# Scraping Mercado Livre
 
-# Terminar com pandas 
+-> Extração de Dados Completa
+-> Banco de Dados
+-> Dashboard
